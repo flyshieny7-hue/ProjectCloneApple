@@ -1,0 +1,1 @@
+{"name": "pay", "description": "Payment confirmation sound with reverb", "duration": 1.0, "spatial": true, "reverb": 0.4, "frequency_range": "600-2500Hz"}

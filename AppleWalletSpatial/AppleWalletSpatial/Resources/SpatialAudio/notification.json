@@ -1,0 +1,1 @@
+{"name": "notification", "description": "Soft notification ping", "duration": 0.5, "spatial": true, "reverb": 0.1, "frequency_range": "2000-4000Hz"}

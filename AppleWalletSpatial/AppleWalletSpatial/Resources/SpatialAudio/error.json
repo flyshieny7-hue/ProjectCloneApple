@@ -1,0 +1,1 @@
+{"name": "error", "description": "Low error tone for failed operations", "duration": 0.4, "spatial": true, "reverb": 0.15, "frequency_range": "200-800Hz"}

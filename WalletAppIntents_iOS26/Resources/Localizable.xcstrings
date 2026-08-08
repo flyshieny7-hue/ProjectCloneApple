@@ -1,0 +1,143 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Pay with Card": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Pay with Card" } },
+        "ru": { "stringUnit": { "value": "Оплатить картой" } }
+      }
+    },
+    "Check Balance": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Check Balance" } },
+        "ru": { "stringUnit": { "value": "Проверить баланс" } }
+      }
+    },
+    "Lock Card": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Lock Card" } },
+        "ru": { "stringUnit": { "value": "Заблокировать карту" } }
+      }
+    },
+    "Send Money": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Send Money" } },
+        "ru": { "stringUnit": { "value": "Отправить деньги" } }
+      }
+    },
+    "Transaction History": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Transaction History" } },
+        "ru": { "stringUnit": { "value": "История транзакций" } }
+      }
+    },
+    "Add Card": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Add Card" } },
+        "ru": { "stringUnit": { "value": "Добавить карту" } }
+      }
+    },
+    "Budget Status": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Budget Status" } },
+        "ru": { "stringUnit": { "value": "Статус бюджета" } }
+      }
+    },
+    "I couldn't find a card matching %@. Please check the name and try again.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "I couldn't find a card matching %@. Please check the name and try again." } },
+        "ru": { "stringUnit": { "value": "Я не нашел карту с названием %@. Проверьте имя и попробуйте снова." } }
+      }
+    },
+    "I couldn't find a contact named %@ in your address book.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "I couldn't find a contact named %@ in your address book." } },
+        "ru": { "stringUnit": { "value": "Я не нашел контакт с именем %@ в вашей адресной книге." } }
+      }
+    },
+    "Please provide a valid amount greater than zero.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Please provide a valid amount greater than zero." } },
+        "ru": { "stringUnit": { "value": "Укажите сумму больше нуля." } }
+      }
+    },
+    "You don't have enough funds for this transaction.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "You don't have enough funds for this transaction." } },
+        "ru": { "stringUnit": { "value": "Недостаточно средств для этой операции." } }
+      }
+    },
+    "This card is currently locked. Unlock it in the Wallet app first.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "This card is currently locked. Unlock it in the Wallet app first." } },
+        "ru": { "stringUnit": { "value": "Эта карта заблокирована. Сначала разблокируйте её в приложении Wallet." } }
+      }
+    },
+    "There was a network error. Please check your connection and try again.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "There was a network error. Please check your connection and try again." } },
+        "ru": { "stringUnit": { "value": "Ошибка сети. Проверьте подключение и попробуйте снова." } }
+      }
+    },
+    "Authentication is required. Please unlock your device and try again.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Authentication is required. Please unlock your device and try again." } },
+        "ru": { "stringUnit": { "value": "Требуется аутентификация. Разблокируйте устройство и попробуйте снова." } }
+      }
+    },
+    "I couldn't find a budget category named %@.": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "I couldn't find a budget category named %@." } },
+        "ru": { "stringUnit": { "value": "Я не нашел категорию бюджета с названием %@." } }
+      }
+    },
+    "Payment Successful": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Payment Successful" } },
+        "ru": { "stringUnit": { "value": "Платеж выполнен" } }
+      }
+    },
+    "Money Sent": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Money Sent" } },
+        "ru": { "stringUnit": { "value": "Деньги отправлены" } }
+      }
+    },
+    "Available Balance": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Available Balance" } },
+        "ru": { "stringUnit": { "value": "Доступный баланс" } }
+      }
+    },
+    "Recent Transactions": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Recent Transactions" } },
+        "ru": { "stringUnit": { "value": "Недавние транзакции" } }
+      }
+    },
+    "Budget Overview": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Budget Overview" } },
+        "ru": { "stringUnit": { "value": "Обзор бюджета" } }
+      }
+    },
+    "Monthly Budget": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Monthly Budget" } },
+        "ru": { "stringUnit": { "value": "Месячный бюджет" } }
+      }
+    },
+    "Spent": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Spent" } },
+        "ru": { "stringUnit": { "value": "Потрачено" } }
+      }
+    },
+    "Remaining": {
+      "localizations": {
+        "en": { "stringUnit": { "value": "Remaining" } },
+        "ru": { "stringUnit": { "value": "Осталось" } }
+      }
+    }
+  }
+}
