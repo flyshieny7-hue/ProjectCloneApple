@@ -1,0 +1,132 @@
+{
+  "app_name": "Apple Wallet Clone",
+  "bundle_id": "com.example.walletclone",
+  "version": "1.0.0",
+  "screenshots": {
+    "iPhone": {
+      "6.7": [
+        {
+          "filename": "screenshot_01_wallet.png",
+          "title": "Your Cards, Beautifully Organized",
+          "description": "All your credit, debit, and loyalty cards in one stunning interface. Swipe through your collection with smooth animations.",
+          "locale": "en-US"
+        },
+        {
+          "filename": "screenshot_02_pay.png",
+          "title": "Quick & Secure Payments",
+          "description": "Pay with a tap using NFC or QR codes. Bank-grade encryption keeps every transaction safe.",
+          "locale": "en-US"
+        },
+        {
+          "filename": "screenshot_03_budget.png",
+          "title": "Smart Budget Tracking",
+          "description": "Set spending limits, track categories, and get AI-powered insights to save more every month.",
+          "locale": "en-US"
+        },
+        {
+          "filename": "screenshot_04_transactions.png",
+          "title": "Transaction History",
+          "description": "View detailed transaction history with merchant info, categories, and spending trends.",
+          "locale": "en-US"
+        },
+        {
+          "filename": "screenshot_05_security.png",
+          "title": "Bank-Grade Security",
+          "description": "Protected by Face ID, Touch ID, and real-time fraud monitoring. Your money is always safe.",
+          "locale": "en-US"
+        },
+        {
+          "filename": "screenshot_06_settings.png",
+          "title": "Full Control",
+          "description": "Customize every aspect of your wallet experience with comprehensive settings.",
+          "locale": "en-US"
+        }
+      ],
+      "6.5": [
+        {
+          "filename": "screenshot_01_wallet_65.png",
+          "title": "Your Cards, Beautifully Organized",
+          "description": "All your cards in one stunning interface.",
+          "locale": "en-US"
+        }
+      ],
+      "5.5": [
+        {
+          "filename": "screenshot_01_wallet_55.png",
+          "title": "Your Cards, Beautifully Organized",
+          "description": "All your cards in one stunning interface.",
+          "locale": "en-US"
+        }
+      ]
+    },
+    "iPad": {
+      "12.9": [
+        {
+          "filename": "ipad_screenshot_01.png",
+          "title": "Your Cards on iPad",
+          "description": "Experience your wallet on the big screen with optimized layouts.",
+          "locale": "en-US"
+        }
+      ]
+    }
+  },
+  "app_preview": {
+    "duration_seconds": 30,
+    "resolutions": ["1080x1920", "886x1920"],
+    "scenes": [
+      {
+        "timestamp": "0:00-0:05",
+        "action": "Open app, show wallet with cards",
+        "text_overlay": "All your cards in one place"
+      },
+      {
+        "timestamp": "0:05-0:10",
+        "action": "Swipe through cards, tap to pay",
+        "text_overlay": "Tap to pay instantly"
+      },
+      {
+        "timestamp": "0:10-0:18",
+        "action": "Show budget charts and insights",
+        "text_overlay": "Track every dollar"
+      },
+      {
+        "timestamp": "0:18-0:25",
+        "action": "Show transaction details and security",
+        "text_overlay": "Bank-grade security"
+      },
+      {
+        "timestamp": "0:25-0:30",
+        "action": "Show settings and customization",
+        "text_overlay": "Your wallet, your way"
+      }
+    ],
+    "music": "Upbeat electronic, 120 BPM",
+    "transitions": "Smooth cross-fade between scenes"
+  },
+  "keywords": [
+    "wallet", "payments", "cards", "budget", "finance",
+    "nfc", "qr code", "transactions", "money", "secure"
+  ],
+  "categories": [
+    "Finance",
+    "Productivity"
+  ],
+  "age_rating": "4+",
+  "pricing": {
+    "free": true,
+    "in_app_purchases": [
+      {
+        "id": "premium_monthly",
+        "title": "Wallet Premium",
+        "price": "$4.99/month",
+        "description": "Advanced analytics, unlimited cards, priority support"
+      },
+      {
+        "id": "premium_yearly",
+        "title": "Wallet Premium Yearly",
+        "price": "$39.99/year",
+        "description": "Save 33% with yearly billing"
+      }
+    ]
+  }
+}

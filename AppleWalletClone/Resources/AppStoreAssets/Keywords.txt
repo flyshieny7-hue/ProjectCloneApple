@@ -1,0 +1,1 @@
+wallet,payments,cards,budget,finance,nfc,qr code,transactions,money,secure,credit card,debit card,digital wallet,mobile payments,cashless,expense tracker,spending,financial planning,bank,safe

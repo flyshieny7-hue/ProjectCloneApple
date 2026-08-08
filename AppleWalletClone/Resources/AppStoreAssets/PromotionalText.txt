@@ -1,0 +1,12 @@
+Manage all your cards, make secure payments, and track your budget — all in one beautiful app. Apple Wallet Clone brings the power of digital payments to your fingertips with bank-grade security and stunning design.
+
+Features:
+- Store unlimited credit, debit, and loyalty cards
+- Quick NFC and QR code payments
+- Smart budget tracking with AI insights
+- Real-time transaction monitoring
+- Face ID / Touch ID protection
+- Beautiful dark mode support
+- iOS 26 optimized with fluid animations
+
+Download now and take control of your finances.
